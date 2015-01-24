@@ -1,0 +1,22 @@
+{
+  "name": "HW_3",
+  "version": "1.0.0",
+  "description": "Homework 3 for Statistical Computing course",
+  "main": "lib/main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Philipp",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "is-url": "^1.2.0",
+    "request": "^2.51.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}

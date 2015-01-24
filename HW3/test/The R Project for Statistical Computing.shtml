@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<title>The R Project for Statistical Computing</title>
+<link rel="stylesheet" type="text/css" href="The%20R%20Project%20for%20Statistical%20Computing_files/R.css">
+</head>
+
+<body>
+
+<h1 align="left">The R Project for Statistical Computing</h1>
+
+<p>
+</p><center>
+<a href="http://www.r-project.org/misc/acpclust.R"><img src="The%20R%20Project%20for%20Statistical%20Computing_files/hpgraphic.png" alt="R Graphics Demo" border="0"></a>
+</center>
+
+<p>
+<table width="100%" border="1">
+  <tbody><tr><td>
+    <h2>Getting Started:</h2>
+    <ul>
+      <li>R is a free software environment for statistical
+      computing and graphics. It compiles and runs on a wide variety
+      of UNIX platforms, Windows and MacOS. To <strong><a href="http://cran.r-project.org/mirrors.html">download R</a></strong>, please
+      choose your preferred <a href="http://cran.r-project.org/mirrors.html">CRAN mirror</a>.
+      </li>
+      <li>
+      If you have questions about R like how to download and install
+      the software, or what the license terms are,
+      please read our <a href="http://cran.r-project.org/faqs.html">answers to frequently asked questions</a> before you send an email.
+      </li>
+    <p>
+  </p></ul></td></tr>
+  <tr><td>
+    <h2>News:</h2>
+    
+    <ul>
+ 
+
+      
+      <li><strong>R version 3.1.2</strong> (Pumpkin Helmet) has been
+      released on 2014-10-31.</li>
+      
+      
+      <li>
+	<a href="http://journal.r-project.org/" target="_top">
+	  <strong>The R Journal Volume 6/1</strong></a>
+	is available.
+      </li>
+
+    
+      <li>
+      <strong><a target="_top" href="http://www.r-project.org/useR-2014">
+      useR! 2014</a></strong>, 
+      took place at the University of California, Los Angeles, USA
+      June 30 - July 3, 2014.
+      </li>
+      
+      <li><strong>R version 3.0.3</strong> (Warm Puppy) has been
+      released on 2014-03-06.</li>
+ 
+      <li>
+      <strong><a target="_top" href="http://www.r-project.org/useR-2015">
+      useR! 2015</a></strong>, 
+      will take place at the University of Aalborg, Denmark,
+      June 30 - July 3, 2015.
+      </li>
+      
+
+
+
+     
+
+
+
+<!-- Dead stuff, for later reuse:
+
+ 
+      <li><strong>R version 2.15.3</strong> (Security Blanket) has been
+      released on 2013-03-01.</li>
+
+      <li>
+      <strong><a href="http://cran.R-project.org/src/base-prerelease">
+      R 3.1.0 prerelease versions</a></strong> will appear starting
+      March 13.
+      Final release is scheduled for April 10, 2014.<br>
+      </li>
+ 
+ 
+      <li>
+      <strong><a href="http://cran.R-project.org/src/base-prerelease">
+      R 3.0.3 (Warm Puppy) prerelease versions</a></strong> will
+      appear starting 
+      February 24.
+      Final release is scheduled for March 6, 2014.
+      </li>
+           <li>
+      <strong><a href="http://cran.R-project.org/src/base-prerelease">
+      R 3.0.2 (Frisbee Sailing) prerelease versions</a></strong> will
+      appear starting 
+      September 15.
+      Final release is scheduled for September 25, 2013.<br>
+      Thanks to Erin Hodgess for the idea leading to the name.
+      </li>
+
+      <li>
+      <strong><a href="http://cran.R-project.org/src/base-prerelease">
+      R 3.0.1 prerelease versions</a></strong> will appear starting
+      May 6.
+      Final release is scheduled for May 16, 2013.<br>
+      </li>
+ 
+      <li>
+      The R Foundation as been awarded <a
+      href="gsoc/2011/index.html">
+      fifteen slots for R projects</a> in the <a
+      href="http://code.google.com/soc/" target="_top">Google Summer of Code 2011</a>.
+
+     <li>
+      <strong><a target="_top"
+      href="http://www.r-project.org/dsc-2009"> DSC 2009</a></strong>,
+      The 6th workshop on Directions in Statistical Computing, has been
+      held at the Center for Health and Society, University of
+      Copenhagen, Denmark, July 13-14, 2009. </li>
+
+
+      <li>
+      <strong><a target="_top" href="http://www.agrocampus-rennes.fr/math/useR-2009/">
+      useR! 2009</a></strong>, the R user conference,
+      has been be held at Agrocampus Rennes, France, July 8-10, 2009.
+
+      <li>
+      The R Foundation as been awarded <a
+      href="gsoc/2009/index.html">
+      four slots for R projects</a> in the <a
+      href="http://socghop.appspot.com/org/home/google/gsoc2009/rf" target="_top">Google Summer of Code 2009</a>.
+
+
+      <li>We have started to collect ideas for the <a
+      href="http://www.r-project.org/gsoc/2009">Google Summer of Code 2009</a>.
+
+      </li>
+-->
+
+
+    </ul>
+    <p>
+  </p></td></tr>
+</tbody></table>
+
+</p><p>
+
+  This server is hosted by the <a href="http://statmath.wu.ac.at/" target="_top">Institute for Statistics and Mathematics</a> of <a href="http://www.wu.ac.at/" target="_top">WU (Wirtschaftsuniversität Wien)</a>.
+
+
+
+
+
+</p></body></html>
